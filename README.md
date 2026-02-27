@@ -1,4 +1,7 @@
-# Welcome to San's ~~Github~~ Code Library
+<h1>
+  Welcome to San's <s>Github</s> Code Library
+  <img src="enth.png" width="60" style="vertical-align: middle; margin-left: 8px;" />
+</h1>
 <p align="left">
   <img src="copy.png" width="60" align="left" style="margin-right:15px;"/>
   <p> I'm a tech aficionado blending code and creativity. I build with python, JavaScript and I explore domains such as automation and ways through which tech and creativity meet.
