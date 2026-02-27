@@ -1,10 +1,14 @@
 # Welcome to San's ~~Github~~ Code Library
-I'm a tech aficionado blending code and creativity. I build with python, JavaScript and I explore domains such as automation and ways through which tech and creativity meet.
-I'm also a part-time visual story-teller, creating visuals, designs and graphics focused on vectors.
+<p align="left">
+  <img src="copy.png" width="80" align="left" style="margin-right:15px;"/>
+  <p> I'm a tech aficionado blending code and creativity. I build with python, JavaScript and I explore domains such as automation and ways through which tech and creativity meet.
+Also a part-time visual story-teller, creating visuals, designs and graphics focused on vectors. </p>
+</p> 
 
-**I’m currently working on**; Developing several *Python* projects in the next three months to strengthen my skills and gain hands-on experience with various Python libraries.
-
-![Banner](https://github.com/h14san/h14san/blob/main/copy.png?)
+<p align="left">
+  <img src="copy.png" width="80" align="left" style="margin-right:15px;"/>
+  <p><b>I’m currently working on;</b> Developing several <i>Python</i> projects in the next three months to strengthen my skills and gain hands-on experience with various Python libraries.</p>
+</p>
 <!--
 **h14san/h14san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
