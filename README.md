@@ -1,4 +1,9 @@
-## Hi there 👋
+# Welcome to San's ~~Github~~ Code Library
+I'm a tech aficionado blending code and creativity. I build with python, JavaScript and I explore domains such as automation and ways through which tech and creativity meet.
+I'm also a part-time visual story-teller, creating visuals, designs and graphics focused on vectors.
+
+**I’m currently working on**; Developing several *Python* projects in the next three months to strengthen my skills and gain hands-on experience with various Python libraries.
+
 
 <!--
 **h14san/h14san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
