@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
-  Welcome to San's <s>Github</s> Code Library
-  <img src="enth.png" width="60" />
+  Welcome to San's <s>Github</s> Code Library 
+  <img src="enth.png" width="35" />
 </h1>
 <p align="left">
   <img src="copy.png" width="60" align="left" style="margin-right:15px;"/>
