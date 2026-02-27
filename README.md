@@ -4,7 +4,7 @@ I'm also a part-time visual story-teller, creating visuals, designs and graphics
 
 **I’m currently working on**; Developing several *Python* projects in the next three months to strengthen my skills and gain hands-on experience with various Python libraries.
 
-
+![Banner]([https://your-image-link.com/banner.png](https://github.com/h14san/h14san/blob/main/copy.png?raw=true))
 <!--
 **h14san/h14san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
