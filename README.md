@@ -10,5 +10,5 @@ Also a part-time visual story-teller, creating visuals, designs and graphics foc
 <br>
 <p align="center">
   <img src="tech.png" width="60" align="left" style="margin-right:15px;"/>
-  <p><b>I’m currently working on;</b> Developing several <i>Python</i> projects in the next three months to strengthen my skills and gain hands-on experience with various Python libraries.</p>
+  <p><b>I’m currently working on;</b> Developing several <i>Python</i> projects in a month to strengthen my skills and gain hands-on experience with various Python libraries.</p>
 </p>
